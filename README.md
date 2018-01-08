@@ -4,7 +4,7 @@
 
 > 此项目同步自 [GoogleChrome](https://github.com/GoogleChrome) / [puppeteer](https://github.com/GoogleChrome/puppeteer) 项目中的  docs. 除特殊情况, 将保持每月一次的同步频率.
 
-###### [API](#API 文档) | [FAQ](#FAQ) | [Contributing](#贡献 Puppeteer)
+###### [API](#api-文档) | [FAQ](#FAQ) | [Contributing](#贡献-puppeteer)
 
 > Puppeteer 是一个 Node 库，它提供了一系列高级 API 来通过 [DevTools 协议](https://chromedevtools.github.io/devtools-protocol/) 控制 [headless](https://developers.google.com/web/updates/2017/04/headless-chrome) Chrome 或 Chromium。 它也可以配置为使用完整的（non-headless）Chrome 或 Chromium。
 
