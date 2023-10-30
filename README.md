@@ -2,7 +2,7 @@
 
 <img src="https://user-images.githubusercontent.com/10379601/29446482-04f7036a-841f-11e7-9872-91d1fc2ea683.png" height="200" align="right">
 
-> 此项目同步自 [GoogleChrome](https://github.com/GoogleChrome) / [puppeteer](https://github.com/GoogleChrome/puppeteer) 项目中的  docs. 除特殊情况, 将保持每月一次的同步频率.
+> 此项目同步自 [GoogleChrome](https://github.com/GoogleChrome) / [puppeteer](https://github.com/GoogleChrome/puppeteer) 项目中的  docs. 
 
 ###### [API](#api-文档) | [FAQ](#faq) | [Contributing](#贡献-puppeteer)
 
